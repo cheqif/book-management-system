@@ -33,7 +33,7 @@
 - Docker & Docker Compose (可选)
 
 ### 本地开发
-
+touch test.txt
 #### 1. 克隆项目
 ```bash
 git clone https://github.com/yourusername/book-management-system.git
